@@ -3,7 +3,7 @@
 <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 </div>
 
-# Olá! eu sou o Hylan Silva
+# Hello! I am Hylan Silva
 
 - 🔭 I’m currently working on Fullstack Web Develpoer
 - 🌱 I’m currently learning JavaScript
