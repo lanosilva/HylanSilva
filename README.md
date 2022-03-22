@@ -5,11 +5,11 @@
 
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Hylan Silva, a full-time full-stack  developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Hylan Silva, a full-time full-stack  developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Oasys Book Service](https://github.com/HylanSilva/Oasys-System)  
