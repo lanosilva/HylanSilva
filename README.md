@@ -114,10 +114,10 @@
 ## Github Stats 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="500cm" height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=hylansilva&show_icons=true&theme=ocean_dark" />
+  <img width="500cm" height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=lanosilva&show_icons=true&theme=ocean_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="500cm" height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hylansilva&layout=compact&show_icons=true&theme=ocean_dark" />
+  <img width="500cm" height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanosilva&layout=compact&show_icons=true&theme=ocean_dark" />
 </a>
 <div/>
  
