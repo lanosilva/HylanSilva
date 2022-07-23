@@ -10,10 +10,10 @@
 ### <div align="center">I'm Hylan Silva, a full-time front-end  developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Oasys Book Service](https://github.com/HylanSilva/Oasys-System)  
+- 🔭 I’m currently working on [TwitterHub App](https://github.com/lanosilva/twitterHubTypeScript)  
   
 
-- 🌱 I’m currently learning React.Js and Node.js  
+- 🌱 I’m currently learning React.Js and Ecmascript6.2018 
 
 
 - 😄 Pronouns: he / him
