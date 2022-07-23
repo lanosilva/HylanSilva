@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm Hylan Silva, a full-time full-stack  developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Hylan Silva, a full-time front-end  developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Oasys Book Service](https://github.com/HylanSilva/Oasys-System)  
